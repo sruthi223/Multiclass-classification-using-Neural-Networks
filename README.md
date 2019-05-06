@@ -11,3 +11,6 @@ Dataset: 
   URL:https://archive.ics.uci.edu/ml/datasets/student+performance
 
 Technologies or API's Used:  Keras API, Sklearn, Pandas, Numpy, and Matplotlib 
+
+
+Project Explanation Link:https://www.youtube.com/watch?v=n0M-EW0IxG4&t=1s
